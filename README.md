@@ -1,2 +1,0 @@
-# programlamaDersNotlari
-Ders Notlari

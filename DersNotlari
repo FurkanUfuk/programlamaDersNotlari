@@ -1,0 +1,9 @@
+
+def gelirHesapla(finGelir,PazGelir,kiraGelir)
+    global toplamGelir
+    toplamGelir=finGelir+pazGelir+kiraGelir
+    return toplamGelir
+bir fonksiyonun içinde kullandığımız değişkeni başka bir fonksiyonda kullanmak için "global" kullanmalıyız.
+def karHesaplama(toplamGelir,toplamGider):
+  kar=toplamGelir-toplamGider
+  if (kar>1000):.........
